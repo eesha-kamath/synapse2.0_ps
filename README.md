@@ -1,7 +1,7 @@
 # **Food Allergy Detection System**
 
 ## **Overview**
-This system helps users detect potential allergens in food items based on their dietary restrictions. By analyzing food labels, barcodes, or ingredient lists, the system warns users about allergens and suggests safe alternatives.
+This system helps users detect potential allergens in food items based on their dietary restrictions. By analyzing food labels,  or ingredient lists, the system warns users about allergens and suggests safe alternatives.
 
 ---
 
@@ -24,7 +24,6 @@ This system helps users detect potential allergens in food items based on their 
 - **Python** (Primary language)
 - **OpenCV** (Image preprocessing)
 - **PaddleOCR** / **Tesseract OCR** (Text extraction)
-- **pyzbar** / **Google Vision API** (Barcode scanning)
 - **Hugging Face's `distilBERT` or `RoBERTa`** (Ingredient recognition)
 - **pandas**, **NumPy** (Data handling)
 - **Flask** / **FastAPI** (Web interface for user interaction)
