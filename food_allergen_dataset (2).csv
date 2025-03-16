@@ -1,0 +1,101 @@
+Ingredient Name,Sub-Category,Primary Allergen,Potential Allergens,Mapped Allergy (Scientific Term),Common Allergy Term,Risk Percentage
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Almonds,Nuts,Tree Nuts,Aflatoxins,Nut-Induced Anaphylaxis,Nut Allergy,High
+Bread,Grains,Gluten,Wheat Protein,Celiac Disease,Gluten Allergy,Medium
+Soy Sauce,Condiments,Soy,"Wheat, Gluten",Soy Allergy,Soy Allergy,Medium
+Prawns,Seafood,Shellfish,Tropomyosin,Shellfish-Induced Anaphylaxis,Shellfish Allergy,High
+Chocolate (with nuts),Confectionery,"Cocoa, Nuts","Milk, Hazelnuts","Cocoa Sensitivity, Nut Allergy","Nut Allergy, Milk Allergy",Medium
+Butter Chicken,Meat Dishes,"Dairy, Spices",Capsaicin (in Chili),"Dairy Allergy, Capsaicin Sensitivity","Milk Allergy, Spice Allergy",Medium
+Pickles,Condiments,Mustard,"Vinegar, Preservatives",Mustard-Induced Anaphylaxis,Mustard Allergy,Low
+Tofu,Soy Products,Soy,Calcium Sulfate,Soy Allergy,Soy Allergy,Medium
+Eggs,Dairy,Egg Protein,Albumin,Egg-Induced Anaphylaxis,Egg Allergy,High
+Peanuts,Nuts,Peanut Protein,Aflatoxins,Peanut-Induced Anaphylaxis,Peanut Allergy,High
+Cashew Nuts,Nuts,Tree Nuts,Urushiol,Nut-Induced Anaphylaxis,Nut Allergy,High
+Fish,Seafood,Fish Protein,Parvalbumin,Fish-Induced Anaphylaxis,Fish Allergy,High
+Strawberries,Fruits,Allergenic Proteins,Profilin,Fruit Allergy,Fruit Allergy,Medium
+Apples,Fruits,Allergenic Proteins,Mald-1,Oral Allergy Syndrome,Fruit Allergy,Low
+Wheat,Grains,Gluten,Wheat Germ Agglutinin,Celiac Disease,Gluten Allergy,Medium
+Ice Cream,Dairy,Milk,"Whey, Casein",Lactose Intolerance,Milk Allergy,Medium
+Honey,Natural Products,Pollen Residue,Bee Pollen,Pollen-Induced Allergy,Pollen Allergy,Low
+Shrimp,Seafood,Shellfish,Arginine Kinase,Shellfish Allergy,Shellfish Allergy,High
+Pineapple,Fruits,Bromelain,Proteolytic Enzymes,Bromelain Sensitivity,Pineapple Allergy,Medium
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
+Milk,Dairy,Lactose,"Casein, Whey",Lactose Intolerance,Milk Allergy,High
