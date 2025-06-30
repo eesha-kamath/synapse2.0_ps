@@ -4,6 +4,11 @@
 This system helps users detect potential allergens in food items based on their dietary restrictions. By analyzing food labels,  or ingredient lists, the system warns users about allergens and suggests safe alternatives.
 
 ---
+## 🎬 Project Demo & Presentation
+
+**View Project PPT**  
+[📎 Download Presentation (PPT)](https://docs.google.com/presentation/d/18UyDO1mgryYWV6AzRmfTa0WHv_ZQ8T_4/edit?usp=sharing&ouid=108039171078965053470&rtpof=true&sd=true)
+---
 
 ## **Features**
 ✅ Image-to-text conversion for ingredient extraction  
