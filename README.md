@@ -10,6 +10,16 @@ This system helps users detect potential allergens in food items based on their 
 [📎 Download Presentation (PPT)](https://docs.google.com/presentation/d/18UyDO1mgryYWV6AzRmfTa0WHv_ZQ8T_4/edit?usp=sharing&ouid=108039171078965053470&rtpof=true&sd=true)
 ---
 
+## 🎬 Project Demo & Presentation
+
+**Watch the Prototype Demo**  
+[![Watch Video](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/Sf8cmyAvRhA)
+
+**View Project PPT**  
+[📎 Download Presentation (PPT)](https://docs.google.com/presentation/d/18UyDO1mgryYWV6AzRmfTa0WHv_ZQ8T_4/edit?usp=sharing&ouid=108039171078965053470&rtpof=true&sd=true)
+
+---
+
 ## **Features**
 ✅ Image-to-text conversion for ingredient extraction  
 ✅ NLP-based ingredient recognition and allergen detection  
